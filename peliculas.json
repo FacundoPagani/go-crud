@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Señor de los Anillos",
+    "director": "Peter Jacksonn",
+    "anio": 2002
+  },
+  {
+    "id": 2,
+    "titulo": "Matrix",
+    "director": "The Wachowskis brothers",
+    "anio": 1999
+  },
+  {
+    "id": 3,
+    "titulo": "Star Wars",
+    "director": "George Lucas",
+    "anio": 1974
+  },
+  {
+    "id": 4,
+    "titulo": "Blade Runner",
+    "director": "Samuel Jackson",
+    "anio": 1984
+  }
+]
